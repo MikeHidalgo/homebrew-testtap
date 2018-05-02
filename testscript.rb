@@ -1,5 +1,5 @@
-
 class Testscript < Formula
+
   desc "initial draft"
   homepage "https://github.com/MikeHidalgo/homebrew-testtap.git"
   url "https://github.com/MikeHidalgo/testscript/archive/v1.0.0.tar.gz"
@@ -8,7 +8,9 @@ class Testscript < Formula
 
   
   def install
-        bin.install "testscript"
+
+    bin.install "testscript"
+
   end
   
 end
