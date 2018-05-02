@@ -1,4 +1,4 @@
-class testscript < Formula
+class Testscript < Formula
 
   desc "initial draft"
   homepage "https://github.com/MikeHidalgo/homebrew-testtap.git"
